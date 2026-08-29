@@ -22,6 +22,15 @@ No futuro, pretendo cursar Engenharia Química e trabalhar na área, unindo meus
 🎯 Meu objetivo
 Meu objetivo é continuar estudando, adquirir experiência e desenvolver projetos que me ajudem a crescer profissionalmente e me preparar para uma carreira na área de Engenharia Química.
 
-email: arthurcavalcante0609@gmail.com 
+### Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Contato
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurcavalcante0609@gmail.com)
 
 ⭐ Obrigado por visitar meu perfil!
